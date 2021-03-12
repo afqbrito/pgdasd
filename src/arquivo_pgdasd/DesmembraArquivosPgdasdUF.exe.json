@@ -1,0 +1,11 @@
+{
+	"nome_path_entrada": "C:\\Temp\\pgdasd\\1-entrada\\",
+	"nome_path_saida": "C:\\Temp\\pgdasd\\2-saida\\",
+	"nome_path_processados": "C:\\Temp\\pgdasd\\3-processados\\",
+	"nome_path_log": "C:\\Temp\\pgdasd\\4-log\\",
+	"nome_path_temp": "C:\\Temp\\pgdasd\\5-temp\\",
+	"nome_path_erro": "C:\\Temp\\pgdasd\\6-erro\\",
+	"uf": "PB",
+	"gerar_arquivo_unico": true,
+	"saida_compactada": true
+}
