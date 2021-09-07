@@ -1,15 +1,13 @@
 # -*- coding: utf-8 -*-
 
-from _io import open
-from datetime import datetime
 import glob
 import json
-import locale
 import os.path
-from pathlib import Path
 import sys
+from _io import open
+from datetime import datetime
+from pathlib import Path
 from zipfile import ZipFile
-
 
 # constantes
 MODO_LEITURA = "r"
